@@ -1,1 +1,17 @@
-'' 
+body {
+    margin: 0;
+}
+
+h1,
+.footer {
+    text-align: center;
+}
+
+.author {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.footer {
+    padding: 10px 0;
+}
